@@ -1,0 +1,3 @@
+/home/noe/Documentos/Estructura de datos/corto1/ejercicio1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/noe/Documentos/Estructura de datos/corto1/ejercicio1/cmake-build-debug/CMakeFiles/ejercicio1.dir
+/home/noe/Documentos/Estructura de datos/corto1/ejercicio1/cmake-build-debug/CMakeFiles/edit_cache.dir
